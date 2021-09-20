@@ -1,0 +1,95 @@
+# CDIP Governance Overview
+
+
+## Goals
+
+Data Cooperative platform governed by DLT (possibly DAO)
+
+
+### Subgoals
+
+Platform that explores participation mechanisms
+
+
+## Requirements from focus groups
+
+- Veto rights for data access on individual and collective level
+
+- Feedback on data use
+
+
+### Mitigating concerns and potential pitfalls
+
+- Expert vetos to compensate for health data literacy deficit
+
+- Delegated consent/voting rights for carers
+
+- Incentivisation as means for social justice, but needs safeguard from exploitation
+
+
+
+## Other implementations
+
+- Proposal making 
+
+
+Decision-making mechanism?
+
+
+
+
+
+
+
+## General notes from lit review
+
+Lots of literature refers to commons governance and or similar governance of common pool resources such as treasuries.
+
+Non take up syndicalist literature and  works in political economy is limited to Ostrom (Goverance of commons)
+
+
+
+## Forms of decision making
+
+### Voting mechanisms
+
+#### Token based quorum voting
+
+
+Variations: Adaptive Quorum Biasing by Polkadot
+https://wiki.polkadot.network/docs/learn-governance
+
+#### Holographic Consensus
+
+Used by DAOstack
+
+Aims to identifying a group's consensus view without requiring a high participation rate in the consensus.
+
+https://daostack-1.gitbook.io/v1/introduction/holographic-consensus-overview
+
+
+#### Permissioned relative majority
+
+used by Moloch DAOs
+
+
+#### Conviction voting
+
+Used by Aragon, 1Hive, Panvala, and Commons Stack.
+
+voting mechanism in which people stake their voting power on proposals, and over time, those proposals accumulate enough votes to pass.
+
+#### Coercion-resistant proxy voting
+
+https://www.sciencedirect.com/science/article/pii/S0167404817301268
+
+
+### Conflict resolution
+
+#### Digital Juristictions 
+
+Proposed by Aragon
+
+https://aragon.org/blog/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c
+
+
