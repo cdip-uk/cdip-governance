@@ -82,6 +82,12 @@ voting mechanism in which people stake their voting power on proposals, and over
 
 ### Proxy voting
 
+#### Helios proxy voting
+
+
+https://ieeexplore.ieee.org/abstract/document/7784560?casa_token=ES2sdvUjsVUAAAAA:wLEuHqqQkLO5n7Enpp6ikbR166BooK126ugVbV8geSFUR91faKwHQDHxVpAwjF1mkBkAuG97hw
+
+
 
 #### Coercion-resistant proxy voting
 
