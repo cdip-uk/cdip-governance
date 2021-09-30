@@ -79,6 +79,10 @@ Used by Aragon, 1Hive, Panvala, and Commons Stack.
 
 voting mechanism in which people stake their voting power on proposals, and over time, those proposals accumulate enough votes to pass.
 
+
+### Proxy voting
+
+
 #### Coercion-resistant proxy voting
 
 https://www.sciencedirect.com/science/article/pii/S0167404817301268
