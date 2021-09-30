@@ -26,6 +26,8 @@ Platform that explores participation mechanisms
 
 - Incentivisation as means for social justice, but needs safeguard from exploitation
 
+- Limit technical knowledge to participate in collective decision making
+
 
 
 ## Other implementations
