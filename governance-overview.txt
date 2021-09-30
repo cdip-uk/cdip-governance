@@ -55,6 +55,8 @@ Non take up syndicalist literature and  works in political economy is limited to
 Variations: Adaptive Quorum Biasing by Polkadot
 https://wiki.polkadot.network/docs/learn-governance
 
+
+
 #### Holographic Consensus
 
 Used by DAOstack
