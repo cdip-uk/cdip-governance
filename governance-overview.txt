@@ -53,7 +53,7 @@ Non take up syndicalist literature and  works in political economy is limited to
 
 Zone A: Data Access
 
-- Individual data Access
+- Individual Data Access
 - Collective Data Access
 - Selective Data Access
 
