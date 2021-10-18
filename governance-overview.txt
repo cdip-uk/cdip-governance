@@ -173,6 +173,7 @@ Voting on a proposal that only impacts a subset of data, e.g. everybody with Ast
 Zone B:
 - Technical development of platform
 Too complex for participants? 
+
 -----
 
 Zone C: 
