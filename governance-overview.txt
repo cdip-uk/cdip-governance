@@ -62,13 +62,10 @@ Zone B:
 
 Zone C: 
 - Governance structures
-- Voting for members, committees, custodians etc
+- Voting for members, committees, custodians
 
 Zone D: 
-- Financial aspects (e.g. funding or surplus funds)
-
-
-
+- Financial aspects
 
 
 ### Voting mechanisms
@@ -123,5 +120,14 @@ https://www.sciencedirect.com/science/article/pii/S0167404817301268
 Proposed by Aragon
 
 https://aragon.org/blog/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c
+
+
+
+
+
+
+
+
+
 
 
