@@ -122,6 +122,89 @@ Proposed by Aragon
 https://aragon.org/blog/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c
 
 
+## Possible mapping for workshop
+
+Zone A: Data Access
+
+-----
+
+- Individual Data Access
+
+Scenario: Voting on a proposal 
+
+Opt-in with veto for individual data access
+
+Options: 
+Yes/Approve for opt-in
+
+No/Pass for opt-out
+
+Provisional: Opt-in if it gets majority vote
+
+Delegation
+
+Voting mechanism: 
+Voting with redemption option
+
+-----
+
+- Collective Data Access
+
+Scenario: Approve organisation to become permanent collaborator (e.g. University of  Manchester)
+
+Options: 
+Yes/Approve
+No/Pass
+Delegation 
+
+Voting mechanism:
+Super majority
+
+-----
+
+- Selective Data Access
+
+Voting on a proposal that only impacts a subset of data, e.g. everybody with Asthma or diabetes
+
+-> Similar to Individual Access? 
+
+-----
+
+Zone B:
+- Technical development of platform
+Too complex for participants? 
+-----
+
+Zone C: 
+- Governance structures
+
+Scenario: Mission statement change proposal
+
+Voting mechanism: Consensus
+
+Options: 
+Yes/Approve
+No/Pass
+
+-----
+
+- Voting for members, committees, custodians
+
+Scenario: Voting for committee member
+
+Voting mechanism: staked or ranked voting
+
+-----
+
+Zone D: 
+- Financial aspects
+
+Scenario: Surplus investment, 
+
+Quorum based voting
+
+Options: 
+Ranked choice
 
 
 
