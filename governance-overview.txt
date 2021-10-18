@@ -49,6 +49,27 @@ Non take up syndicalist literature and  works in political economy is limited to
 
 ## Forms of decision making
 
+### Zones for decision making
+
+Zone A: Data Access
+
+- Individual data Access
+- Collective Data Access
+- Selective Data Access
+
+Zone B:
+- Technical development of platform
+
+Zone C: 
+- Governance structures
+
+Zone D: 
+- Financial aspects (e.g. funding or surplus funds)
+
+
+
+
+
 ### Voting mechanisms
 
 #### Token based quorum voting
