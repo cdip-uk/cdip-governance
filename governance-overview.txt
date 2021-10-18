@@ -62,6 +62,7 @@ Zone B:
 
 Zone C: 
 - Governance structures
+- Voting for members, committees, custodians etc
 
 Zone D: 
 - Financial aspects (e.g. funding or surplus funds)
